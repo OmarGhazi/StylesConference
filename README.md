@@ -1,4 +1,4 @@
-#Learning to use Git and Github with Front End Web Development
+# Learning to use Git and Github with Front End Web Development
 
 This text file includes some of the commonly used git commands used to version control projects.
 I will be adding the commands I used to add, commit, and update my code on this repository.
